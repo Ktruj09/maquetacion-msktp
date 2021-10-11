@@ -195,3 +195,29 @@ style about.html
 .container .btn-primary {
     margin-top: 40px;
 }
+
+
+/*Style publications.html*/
+
+.header .search button {
+    background-color: white;
+    color: black;
+}
+
+.header .search button:hover {
+    background-color: #2195BA;
+    color: white;
+}
+
+.container .card-body {
+    margin-top: 65px;
+}
+
+.container .noticies {
+    max-width: 100%;
+}
+
+.container img {
+    width: 100%;
+    height: 100%;
+}
