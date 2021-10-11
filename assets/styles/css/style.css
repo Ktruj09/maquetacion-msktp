@@ -163,3 +163,35 @@ style about.html
     text-align: center;
     font-weight: bold;
 }
+
+.container .about-description p {
+    text-align: center;
+    letter-spacing: 3px;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.container .about-fin h2 {
+    text-align: center;
+    font-weight: bold;
+}
+
+.container .about-fin-description p {
+    text-align: center;
+    letter-spacing: 3px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+.footer {
+    margin-top: 12%;
+}
+
+
+/*Style contact*/
+
+.container .btn-primary {
+    margin-top: 40px;
+}
